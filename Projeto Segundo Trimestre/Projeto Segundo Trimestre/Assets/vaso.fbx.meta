@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: 1cd3524fc9a640f4f967399b114cc354
+timeCreated: 1505777092
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Toilet Bolt Cap
+    100002: Toilet Bottom
+    100004: Toilet Bowl
+    100006: Toilet Handle
+    100008: Toilet Lid
+    100010: Toilet Seat
+    100012: Toilet Tank
+    100014: Toilet Tank Lid
+    100016: //RootNode
+    400000: Toilet Bolt Cap
+    400002: Toilet Bottom
+    400004: Toilet Bowl
+    400006: Toilet Handle
+    400008: Toilet Lid
+    400010: Toilet Seat
+    400012: Toilet Tank
+    400014: Toilet Tank Lid
+    400016: //RootNode
+    2300000: Toilet Bolt Cap
+    2300002: Toilet Bottom
+    2300004: Toilet Bowl
+    2300006: Toilet Handle
+    2300008: Toilet Lid
+    2300010: Toilet Seat
+    2300012: Toilet Tank
+    2300014: Toilet Tank Lid
+    3300000: Toilet Bolt Cap
+    3300002: Toilet Bottom
+    3300004: Toilet Bowl
+    3300006: Toilet Handle
+    3300008: Toilet Lid
+    3300010: Toilet Seat
+    3300012: Toilet Tank
+    3300014: Toilet Tank Lid
+    4300000: Toilet Lid
+    4300002: Toilet Bolt Cap
+    4300004: Toilet Bottom
+    4300006: Toilet Bowl
+    4300008: Toilet Handle
+    4300010: Toilet Seat
+    4300012: Toilet Tank
+    4300014: Toilet Tank Lid
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
